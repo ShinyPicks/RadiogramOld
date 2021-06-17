@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Radiogram.iml" filepath="$PROJECT_DIR$/.idea/modules/Radiogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Radiogram.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Radiogram.app.iml" />
     </modules>
   </component>
 </project>
