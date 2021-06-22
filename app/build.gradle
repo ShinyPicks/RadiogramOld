@@ -30,6 +30,10 @@ android {
     kotlinOptions {
         jvmTarget = '1.8'
     }
+    sourceSets.main {
+        jniLibs.srcDir 'src/main/libs'
+        jni.srcDirs = [] //disable automatic ndk-build call
+    }
 }
 
 dependencies {
