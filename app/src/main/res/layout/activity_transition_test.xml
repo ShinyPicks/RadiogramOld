@@ -6,11 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".TransitionTest">
 
-    <FrameLayout
-        android:id="@+id/scene_root"
-        android:layout_height="match_parent"
-        android:layout_width="match_parent">
-        <include layout="@layout/auth_hello" />
-    </FrameLayout>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
